@@ -1,0 +1,17 @@
+[33mcommit c1e24478e421096cd234e52226185badbec3929a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Oscar Ruiz <*igalvan5@cuc.edu.co*>
+Date:   Wed Feb 28 14:07:49 2024 -0500
+
+    Segundo commit de la rama develop
+
+[33mcommit 23578c30a618716f83a7c92aa4344aa9789ec0c9[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Oscar Ruiz <*igalvan5@cuc.edu.co*>
+Date:   Wed Feb 28 14:00:55 2024 -0500
+
+    se creo un nuevo commit en la rama develop
+
+[33mcommit 1d8f97fe2c7848cbdf863908dafbee2799f80ad8[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Oscar Ruiz <*igalvan5@cuc.edu.co*>
+Date:   Wed Feb 28 13:28:17 2024 -0500
+
+    main
